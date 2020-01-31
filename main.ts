@@ -576,5 +576,4 @@ namespace motor {
         Empfindlichkeit = value;
     }
 
-
 }
