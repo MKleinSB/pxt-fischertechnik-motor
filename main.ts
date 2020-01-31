@@ -46,7 +46,7 @@ let Empfindlichkeit = 20
 
 //% weight=100 color=#0080FF  icon="\uf085"
 //% block="FT-Motor" category="FT-Motor" 
-//% groups='["Motor","Stepper","Pins"]'
+//% groups='["Pins","Motor","Stepper","Phototransistor"]'
 
 namespace motor {
     const PCA9685_ADDRESS = 0x40
@@ -517,7 +517,7 @@ namespace motor {
      * @param pin with phototransistor connected
      * @param LSzustand interrupted or not
      */
-    //% subcategory="Phototransistor"
+    //% group="Phototransistor"
     //% pin.fieldEditor="gridpicker" 
     //% pin.fieldOptions.columns=4
     //% blockId=onLightLevel block="phototransistor at pin %pin | is | %LSzustand"
@@ -544,7 +544,7 @@ namespace motor {
     * @param pin - is the pin which a phototransistor is connected to
     * @param LSzustand - if interrupted or not
     */
-    //% subcategory="Phototransistor"
+    //% group="Phototransistor"
     //% blockId=readPhototransistor
     //% block="Phototransistor at %pin| is | %LSzustand"
 
@@ -568,7 +568,7 @@ namespace motor {
      *  
      * @param value - (analogvalue)
      */
-    //% subcategory="Phototransistor"
+    //% group="Phototransistor"
     //% value.defl=20
     //% value.min=5 value.max=1023
     //% blockId="SetLightSensitivity" block="set lightsensitivity to %value"
