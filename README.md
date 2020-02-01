@@ -1,5 +1,3 @@
-> Diese Seite bei [https://mkleinsb.github.io/pxt-fischertechnik-motor/](https://mkleinsb.github.io/pxt-fischertechnik-motor/) öffnen
-
 ## Diese Erweiterung verwenden
 
 Dieses Repository kann als **extension** in MakeCode hinzugefügt werden.
