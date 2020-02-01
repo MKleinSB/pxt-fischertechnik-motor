@@ -7,7 +7,7 @@ Dieses Repository kann als **extension** in MakeCode hinzugefügt werden.
 * Klicke auf **Erweiterungen** unter dem Zahnrad-Menü
 * nach **https://github.com/mkleinsb/pxt-fischertechnik-motor** suchen und importieren
 
-## Diese Erweiterung bearbeiten ![Build Status Abzeichen](https://github.com/mkleinsb/pxt-fischertechnik-motor/workflows/MakeCode/badge.svg)
+## Diese Erweiterung bearbeiten
 
 Um dieses Repository in MakeCode zu bearbeiten.
 
