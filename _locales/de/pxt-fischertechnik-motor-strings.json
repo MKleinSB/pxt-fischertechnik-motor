@@ -13,6 +13,6 @@
     "motor.readPhototransistor|block": "Fototransistor an %pin| ist | %LSzustand",
     "motor.SetLightSensitivity|block": "setze Lichtempfindlichkeit auf %value",
     "zustand.unterbrochen|block": "unterbrochen",
-    "zustand.nicht_unterbrochen|block": "nicht unterbrochen"
-    "{id:category}FT-Motor" "Fischertechnik-Motor"
+    "zustand.nicht_unterbrochen|block": "nicht unterbrochen",
+    "{id:category}FT-Motor": "Fischertechnik Motor"
 }
