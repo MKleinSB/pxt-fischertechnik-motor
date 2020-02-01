@@ -1,21 +1,27 @@
-# pxt-fischertechnik-motor
+> Diese Seite bei [https://mkleinsb.github.io/pxt-fischertechnik-motor/](https://mkleinsb.github.io/pxt-fischertechnik-motor/) öffnen
+
+## Diese Erweiterung verwenden
+
+Dieses Repository kann als **extension** in MakeCode hinzugefügt werden.
+
+* öffne [https://makecode.calliope.cc/](https://makecode.calliope.cc/)
+* klicke auf **Neues Projekt**
+* Klicke auf **Erweiterungen** unter dem Zahnrad-Menü
+* nach **https://github.com/mkleinsb/pxt-fischertechnik-motor** suchen und importieren
+
+## Diese Erweiterung bearbeiten ![Build Status Abzeichen](https://github.com/mkleinsb/pxt-fischertechnik-motor/workflows/MakeCode/badge.svg)
+
+Um dieses Repository in MakeCode zu bearbeiten.
+
+* öffne [https://makecode.calliope.cc/](https://makecode.calliope.cc/)
+* Klicke auf **Importieren** und dann auf **URL importieren**
+* füge **https://github.com/mkleinsb/pxt-fischertechnik-motor** ein und klicke auf Importieren
 
 
+![](https://github.com/MKleinSB/pxt-fischertechnik-motor/blob/master/ftboard.png) 
 
-## TODO
+#### Metadaten (verwendet für Suche, Rendering)
 
-- [ ] Add a reference for your blocks here
-- [ ] Add "icon.png" image (300x200) in the root folder
-- [ ] Add "- beta" to the GitHub project description if you are still iterating it.
-- [ ] Turn on your automated build on https://travis-ci.org
-- [ ] Use "pxt bump" to create a tagged release on GitHub
-- [ ] On GitHub, create a new file named LICENSE. Select the MIT License template.
-- [ ] Get your package reviewed and approved https://makecode.microbit.org/extensions/approval
+* for PXT/calliopemini
 
-Read more at https://makecode.microbit.org/extensions
-
-## Supported targets
-
-* for PXT/microbit
-(The metadata above is needed for package search.)
-
+<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
