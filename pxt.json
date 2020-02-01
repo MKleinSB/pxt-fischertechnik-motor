@@ -1,6 +1,6 @@
 {
     "name": "pxt-fischertechnik-motor",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "description": "Motor Driver and Pin blocks for the Calliope Mini Fischertechnikboard by Marcel André",
     "dependencies": {
         "core": "*",
