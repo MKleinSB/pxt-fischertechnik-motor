@@ -2,7 +2,7 @@
 
 Dieses Repository kann als **extension** in MakeCode hinzugefügt werden.
 
-* öffne [https://makecode.calliope.cc/](https://makecode.calliope.cc/)
+* öffne [https://makecode.calliope.cc/beta](https://makecode.calliope.cc/beta)
 * klicke auf **Neues Projekt**
 * Klicke auf **Erweiterungen** unter dem Zahnrad-Menü
 * nach **https://github.com/mkleinsb/pxt-fischertechnik-motor** suchen und importieren
