@@ -9,10 +9,10 @@
     "motor.stepperTurn_28|block": "Stepper 28|%index| im |%direction|drehe|%turn",
     "motor.motorStop|block": "Stoppe Motor|%index",
     "motor.motorStopAll|block": "Stoppe alle Motoren",
-    "motor.onLightLevel|block": "Fototransistor an pin %pin | ist | %LSzustand",
+    "motor.onLightLevel|block": "Fototransistor an Pin %pin | ist | %LSzustand",
     "motor.readPhototransistor|block": "Fototransistor an %pin| ist | %LSzustand",
     "motor.SetLightSensitivity|block": "setze Lichtempfindlichkeit auf %value",
     "zustand.unterbrochen|block": "unterbrochen",
     "zustand.nicht_unterbrochen|block": "nicht unterbrochen",
-    "{id:category}FT-Motor": "Fischertechnik Motor"
+    "{id:category}motor.FT-Motor": "Fischertechnik"
 }
