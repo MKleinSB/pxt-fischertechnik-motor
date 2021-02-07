@@ -15,5 +15,8 @@
         "test.ts"
     ],
     "public": false,
+    "supportedTargets": [
+        "calliopemini"
+    ],
     "preferredEditor": "tsprj"
 }

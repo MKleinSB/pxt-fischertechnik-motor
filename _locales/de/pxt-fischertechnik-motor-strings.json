@@ -2,7 +2,7 @@
     "motor.Dir.CW|block": "Uhrzeigersinn",
     "motor.Dir.CCW|block": "Gegenuhrzeigersinn",
     "motor.servo|block": "setze Winkel von Servo|%index|auf|%degree|°",
-    "motor.MotorRun|block": "Motor|%index|im|%Dir|Geschwindigkeit|%speed|\%",
+    "motor.MotorRun|block": "Motor|%index|im|%Dir|Geschwindigkeit|%speed|\\%",
     "motor.stepperDegree_42|block": "Stepper 42|%index|im|%direction|Grad|%degree|°",
     "motor.stepperTurn_42|block": "Stepper 42|%index| im |%direction|drehe|%turn",
     "motor.stepperDegree_28|block": "Stepper 28|%index| im |%direction| Grad |%degree|°",
